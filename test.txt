@@ -1,2 +1,1 @@
-awesome
-cat test.txt
+merge test!
